@@ -1,0 +1,5 @@
+﻿  practic2.cpp
+C:\Users\307-09\Desktop\Полеев\practic2\practic2.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\307-09\Desktop\Полеев\practic2\practic2.cpp(51,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\307-09\Desktop\Полеев\practic2\practic2.cpp(90,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  practic2.vcxproj -> C:\Users\307-09\Desktop\Полеев\practic2\x64\Debug\practic2.exe
